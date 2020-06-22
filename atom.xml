@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zxc54366456.github.io</id>
     <title>吃鸡</title>
-    <updated>2020-06-22T01:35:52.179Z</updated>
+    <updated>2020-06-22T02:09:16.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zxc54366456.github.io"/>
     <link rel="self" href="https://zxc54366456.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://zxc54366456.github.io/images/avatar.png</logo>
     <icon>https://zxc54366456.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 吃鸡</rights>
+    <entry>
+        <title type="html"><![CDATA[自行车自行车]]></title>
+        <id>https://zxc54366456.github.io/post/zi-xing-che-zi-xing-che/</id>
+        <link href="https://zxc54366456.github.io/post/zi-xing-che-zi-xing-che/">
+        </link>
+        <updated>2020-06-22T02:08:51.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://zxc54366456.github.io/post-images/1592791743594.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12111]]></title>
         <id>https://zxc54366456.github.io/post/12111/</id>
